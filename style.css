@@ -304,7 +304,7 @@ a img.aligncenter {
 -------------------------------------------------------------------*/
 
 .navbar-dark{
-	background-color: transparent;
+	background-color: rgb(121, 190, 190);
 	transition: all 0.3s ease 0s;
 }
 
@@ -395,13 +395,15 @@ a img.aligncenter {
 	vertical-align: middle;
 	position: relative;
 	z-index: 1;
+    
 }
 .heading h1{
 	color: #ffffff;
 	font-weight: 700;
 	font-size: 62px;
 	text-transform: capitalize;
-    padding-top:200px;
+    padding-top: 600px;
+    
 }
 .heading p{
 	font-size: 18px;
@@ -519,6 +521,7 @@ xclip
 
 .section.wb {
     background-color: #ffffff;
+    margin-top: 40px;
 }
 
 .section.lb {
@@ -2274,7 +2277,7 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
+    line-height: 0 !important;
 }
 
 .footer {
@@ -2525,7 +2528,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 0 !important;
 }
 
 .stat-wrap p {
@@ -2534,7 +2537,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
