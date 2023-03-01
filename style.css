@@ -363,6 +363,9 @@ a img.aligncenter {
 	max-width: 130px;
 }
 
+.container h1{
+    font-weight: bolder;
+}
 
 /*------------------------------------------------------------------
     SECTIONS
@@ -402,7 +405,7 @@ a img.aligncenter {
 	font-weight: 700;
 	font-size: 62px;
 	text-transform: capitalize;
-    padding-top: 600px;
+    padding-top: 430px;
     
 }
 .heading p{
